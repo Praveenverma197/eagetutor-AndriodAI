@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">eAgeTutor</string>
+    <string name="failed_load_response">Failed to return content due to</string>
+    <string name="welcome">Welcome to eAgeTutor</string>
+    <string name="writehere">Type here:</string>
+    <string name="hello">Hello, eAgeTutor!</string>
+    <string name="Typing">Outputting...</string>
+    <string name="title_activity_payment">PaymentActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="Buy">Buy</string>
+    <string name="cancel">CANCEL</string>
+    <string name="title_activity_status">Payment Status</string>
+    <string name="Pay">Pay</string>
+    <string-array name="selectAction">
+        <item>Resend OTP</item>
+        <item>Enter OTP Manually</item>
+    </string-array>
+    <string name="access_code">Access Code</string>
+    <string name="pay_button">Pay</string>
+    <string name="merchant_id">Merchant Id</string>
+    <string name="currency">Currency</string>
+    <string name="amount">Amount</string>
+    <string name="redirect_url">Redirect Url</string>
+    <string name="cancel_url">Cancel Url</string>
+    <string name="rsa_url">RSA Key Url</string>
+    <string name="unique_value">Unique value</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
